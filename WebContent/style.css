@@ -1,0 +1,16 @@
+BODY {
+color: #660033;
+font-size: 11pt;
+background-color: #CCFFFF;
+margin: 20pt 0pt 20pt 30pt;
+line-height: 150%;
+}
+DIV{
+color: #FF0000;
+}
+H1{
+color:#FF33CC;
+font-size: 15pt;
+}
+A:link, A:visited, A:active, A:hover { color: #009999; }
+A:link, A:visited { text-decoration: none; }
