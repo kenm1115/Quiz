@@ -1,2 +1,2 @@
 # Quiz
-Please 
+Please run from "quizStart.jsp".
